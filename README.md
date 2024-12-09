@@ -19,8 +19,8 @@ python prefilter.py sample.tsv | python filter-actions.py sampleobject.txt | pyt
 
 - filter out the fields corresponding to the normalized subject-verb-object relationship, to the format
 
-  *he  do  it
-  *he  ask  her
-	...
+  +he  do  it
+  +he  ask  her
+  +...
 
 
