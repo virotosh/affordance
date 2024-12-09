@@ -1,4 +1,4 @@
-Replicate codes from https://dl.acm.org/doi/10.1145/2858036.2858528
+Replicate code for https://dl.acm.org/doi/10.1145/2858036.2858528
 
 
 # Data mining
